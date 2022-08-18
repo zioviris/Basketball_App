@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+ibase64
+matplotlib
+matplotlib.pyplot
+seaborn
