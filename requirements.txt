@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 scikit-learn
-base64
 matplotlib
 matplotlib.pyplot
 seaborn
